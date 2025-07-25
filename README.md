@@ -16,7 +16,7 @@ Welcome to my GitHub home-showcasing my generative AI & NLP experiments, cloud-n
 | **Slack Channel Summariser**   | Daily summaries of Slack conversations via an RAG pipeline using AWS Lambda, EventBridge & Bedrock       | AWS Lambda, EventBridge, Haystack, Bedrock            | [GitHub](https://github.com/Manuele-T/SlackSummariser)   |
 | **Agrilearn (Leaf Classifier)**| Crop species & health-status classification using a fine-tuned MobileNetV3-Large CNN                     | Python, TensorFlow, Keras, Flask, AWS EC2, Cloudflare | [GitHub](https://github.com/Manuele-T/AgriLearn)   |
 | **Talks Scheduler Web App**    | React SPA for dynamically filtering and scheduling conference talks with user authentication               | React, Node.js, Express, NeDB, JWT                    | [GitHub](https://github.com/Manuele-T/Conference_Planner)   |
-| **DrivePal (Group Project)**   | Learner-driver portal for booking lessons & secure payments with real-time location search               | ASP.NET Core MVC, Google Maps API, Stripe, SignalR    | [GitHub](#)   |
+| **DrivePal (Group Project)**   | Learner-driver portal for booking lessons & secure payments with real-time location search               | ASP.NET Core MVC, Google Maps API, Stripe, SignalR    | [GitHub]([#](https://github.com/Manuele-T/DrivePal))   |
 
 
 ## 🚀 About Me
