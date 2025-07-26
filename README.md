@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I’m Manuele-T.
+# Hi there, I’m Manuele-T.
 Welcome to my GitHub home-showcasing my generative AI & NLP experiments, cloud-native demos, and other personal projects.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manuele-t-6870aa138/)  
@@ -8,7 +8,7 @@ Welcome to my GitHub home-showcasing my generative AI & NLP experiments, cloud-n
 </div>
 
 ---
-## 🔭 Main Projects
+## Main Projects
 
 | Project                        | Description                                                                                             | Tech Stack                                            | Demo / Link   |
 |--------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------|
@@ -19,13 +19,13 @@ Welcome to my GitHub home-showcasing my generative AI & NLP experiments, cloud-n
 | **DrivePal (Group Project)**   | Learner-driver portal for booking lessons & secure payments with real-time location search               | ASP.NET Core MVC, Google Maps API, Stripe, SignalR    | [GitHub](https://github.com/Manuele-T/DrivePal)   |
 
 
-## 🚀 About Me
-- 🎓 First-Class Computing Graduate looking to become a specialist in Generative AI  
-- 🛠️ Currently working on conversational NLP & generative AI projects, deploying cloud-native solutions on AWS & GCP
+## About Me
+- First-Class Computing Graduate looking to become a specialist in Generative AI  
+- 🛠Currently working on conversational NLP & generative AI projects, deploying cloud-native solutions on AWS & GCP
 ---
 
-## 📫 Connect with Me on LinkedIn
+## Connect with Me on LinkedIn
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manuele-t-6870aa138/)  
+- [LinkedIn](https://www.linkedin.com/in/manuele-t-6870aa138/)  
 
 ---
