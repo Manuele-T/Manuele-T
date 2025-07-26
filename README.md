@@ -21,7 +21,7 @@ Welcome to my GitHub home-showcasing my generative AI & NLP experiments, cloud-n
 
 ## About Me
 - First-Class Computing Graduate looking to become a specialist in Generative AI  
-- 🛠Currently working on conversational NLP & generative AI projects, deploying cloud-native solutions on AWS & GCP
+- Currently working on conversational NLP & generative AI projects, deploying cloud-native solutions on AWS & GCP
 ---
 
 ## Connect with Me on LinkedIn
