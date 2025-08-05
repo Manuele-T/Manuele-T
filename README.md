@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I’m Manuele-T.  
-Welcome to my GitHub home showcasing my generative AI & NLP experiments, cloud-native demos, and other personal projects.
+Welcome to my GitHub home—showcasing my generative AI & NLP experiments, cloud-native demos, and other personal projects.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manuele-t-6870aa138/)  
 
