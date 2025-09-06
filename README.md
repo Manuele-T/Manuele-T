@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I’m Manuele-T.
-Welcome to my GitHub home—showcasing my generative AI & NLP experiments, cloud-native demos, and other personal projects.
+Welcome to my GitHub home, showcasing my generative AI & NLP experiments, cloud-native demos, and other personal projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manuele-t-6870aa138/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manueletacchetti)
 
 </div>
 
@@ -12,6 +12,7 @@ Welcome to my GitHub home—showcasing my generative AI & NLP experiments, cloud
 
 | Project                        | Description                                                                                             | Tech Stack                                            | Demo / Link   |
 |--------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------|
+| **AI File Analysis Agent**     | Agent-Tool system where an agent uses an MCP server to orchestrate local file I/O and OpenAI summarization. | Python, MCP, FastMCP, asyncio, OpenAI API             | [GitHub](https://github.com/Manuele-T/Local-MCP-File-Analysis-Server) |
 | **AI News Digest**             | Self-hosted n8n workflow that pulls daily AI headlines from RSS feeds, summarises them with Azure OpenAI, and posts the digest to a Discord channel. | n8n, Docker, Azure Container Apps, Azure OpenAI (GPT-4.1-mini), KEDA, Discord | [GitHub](https://github.com/Manuele-T/N8N_AI_News) |
 | **Recipes Chatbot**            | Conversational NLP interface exploring 500,000+ recipes via Gemini on Vertex AI                          | Python, FastAPI, Pandas, Docker, GCP, React           | [GitHub](https://github.com/Manuele-T/Recipes_Chatbot)   |
 | **Slack Channel Summariser**   | Daily summaries of Slack conversations via an RAG pipeline using AWS Lambda, EventBridge & Bedrock       | AWS Lambda, EventBridge, Haystack, Bedrock            | [GitHub](https://github.com/Manuele-T/SlackSummariser)   |
