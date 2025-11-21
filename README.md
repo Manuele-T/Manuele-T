@@ -12,7 +12,8 @@ Welcome to my GitHub home, showcasing my generative AI & NLP experiments, cloud-
 
 | Project | Description | Tech Stack | Demo / Link |
 |---|---|---|---|
-| **AI Marketing Assistant** | A multi-agent system that automates social media content creation for a cafe by analyzing local weather, news, and events. | Python, LangGraph, Streamlit, OpenAI API, SerpApi	 | [GitHub](https://github.com/Manuele-T/AI_Marketing_Agent) |
+| **CodeWise AI Reviewer** | Secure code analysis service with 3-layer defense-in-depth against Prompt Injection (Sanitization, Hardening, Validation). | React, TypeScript, Tailwind CSS, Node.js (Vercel), OpenAI API | [GitHub](https://github.com/Manuele-T/codewise-ai-reviewer) - [Live Link](https://codewise-ai-reviewer-j6q38uhfl-manueles-projects-58d0284d.vercel.app/) |
+| **AI Marketing Assistant** | A multi-agent system that automates social media content creation for a cafe by analyzing local weather, news, and events. | Python, LangGraph, Streamlit, OpenAI API, SerpApi     | [GitHub](https://github.com/Manuele-T/AI_Marketing_Agent) |
 | **AI File Analysis Agent** | Agent-Tool system where an agent uses an MCP server to orchestrate local file I/O and OpenAI summarization. | Python, MCP, FastMCP, asyncio, OpenAI API | [GitHub](https://github.com/Manuele-T/Local-MCP-File-Analysis-Server) |
 | **AI News Digest** | Self-hosted n8n workflow that pulls daily AI headlines from RSS feeds, summarises them with Azure OpenAI, and posts the digest to a Discord channel. | n8n, Docker, Azure Container Apps, Azure OpenAI (GPT-4.1-mini), KEDA, Discord | [GitHub](https://github.com/Manuele-T/N8N_AI_News) |
 | **Recipes Chatbot** | Conversational NLP interface exploring 500,000+ recipes via Gemini on Vertex AI | Python, FastAPI, Pandas, Docker, GCP, React | [GitHub](https://github.com/Manuele-T/Recipes_Chatbot) |
