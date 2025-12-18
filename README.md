@@ -13,7 +13,7 @@ First-Class Computing Graduate specializing in Generative AI, NLP, and Cloud-Nat
 ### Latest Release: Neon Breacher
 | **Zero-Asset Retro Arcade Shooter** | **Tech Stack** |
 | :--- | :--- |
-| <img src="https://github.com/Manuele-T/neon-breacher/blob/main/screenshots/02.jpg?raw=true" width="80%" /> | **Core:** React 19, TypeScript, HTML5 Canvas<br>**Engineering:** Decoupled React UI from Game Loop<br>**AI Workflow:** Architected with Gemini 3 Pro<br><br>[**View Repository →**](https://github.com/Manuele-T/neon-breacher) |
+| <img src="https://github.com/Manuele-T/neon-breacher/blob/main/screenshots/neon_breacher.gif?raw=true" width="80%" /> | **Core:** React 19, TypeScript, HTML5 Canvas<br>**Engineering:** Decoupled React UI from Game Loop<br>**AI Workflow:** Architected with Gemini 3 Pro<br><br>[**View Repository →**](https://github.com/Manuele-T/neon-breacher) |
 
 ---
 
