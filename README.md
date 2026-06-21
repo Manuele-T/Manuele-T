@@ -14,7 +14,7 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
 
 | **Discord-Controlled Autonomous Deployment** | **Tech Stack** |
 | :--- | :--- |
-| <img src="https://github.com/Manuele-T/Autonomous-Builder/blob/main/screenshots/pic01.png?raw=true" width="80%" /> | **Core:** Hermes Agent, DeepSeek V4 (OpenRouter)<br>**Interface:** Discord gateway<br>**Deploy:** Vercel, GitHub CLI, Neon<br>Turns a plain-language request into a deployed web app — planning, building, security-reviewing, and shipping to production. Built on AgentOps principles: human-in-the-loop approval gates and a code-review subagent that halts deployment on any security violation.<br><br>[**View Repository →**](https://github.com/Manuele-T/Autonomous-Builder) |
+| <img src="https://github.com/Manuele-T/Autonomous-Builder/blob/main/screenshots/01.png?raw=true" width="80%" /> | **Core:** Hermes Agent, DeepSeek V4 (OpenRouter)<br>**Interface:** Discord gateway<br>**Deploy:** Vercel, GitHub CLI, Neon<br>Turns a plain-language request into a deployed web app — planning, building, security-reviewing, and shipping to production. Built on AgentOps principles: human-in-the-loop approval gates and a code-review subagent that halts deployment on any security violation.<br><br>[**View Repository →**](https://github.com/Manuele-T/Autonomous-Builder) |
 
 ---
 
