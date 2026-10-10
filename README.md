@@ -10,7 +10,15 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
 
 ---
 
-### Latest Release: Hermes Autonomous Builder — Agentic Web-App Pipeline
+### Latest Release: Hermes Agent Control Surface — Live Agent Fleet Dashboard
+
+| **See Your Agents Work, Click to Intervene** | **Tech Stack** |
+| :--- | :--- |
+| <img src="https://github.com/Manuele-T/hermes-agent-control-surface/blob/main/docs/01.jpeg?raw=true" width="80%" /> | **Core:** Hermes Agent, FastAPI, React + TypeScript<br>**Rendering:** PixiJS animated "room" driven by real hook telemetry<br>**Deploy:** Docker (GHCR), Render (synthetic demo)<br>Turns a Hermes Kanban fleet into a live room of agents you can watch and act on — reassign, unblock, spawn, cancel, and approve or deny dangerous commands remotely, no terminal needed. Chain-of-thought is never surfaced and tool output is secret-scrubbed.<br><br>[**View Repository →**](https://github.com/Manuele-T/hermes-agent-control-surface) · [**Live Demo →**](https://hermes-agent-control-surface-demo.onrender.com/) |
+
+---
+
+### Featured: Hermes Autonomous Builder — Agentic Web-App Pipeline
 
 | **Discord-Controlled Autonomous Deployment** | **Tech Stack** |
 | :--- | :--- |
