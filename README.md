@@ -10,11 +10,11 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
 
 ---
 
-### Latest Release: Hermes Agent Control Surface — Live Agent Fleet Dashboard
+### Latest Release: Agent Troops — Secure Agent Teams for Claude Code
 
-| **See Your Agents Work, Click to Intervene** | **Tech Stack** |
+| **Least Privilege & Human Approval for Agentic AI** | **Tech Stack** |
 | :--- | :--- |
-| <img src="https://github.com/Manuele-T/hermes-agent-control-surface/blob/main/docs/01.jpeg?raw=true" width="80%" /> | **Core:** Hermes Agent, FastAPI, React + TypeScript<br>**Rendering:** PixiJS animated "room" driven by real hook telemetry<br>**Deploy:** Docker (GHCR), Render (synthetic demo)<br>Turns a Hermes Kanban fleet into a live room of agents you can watch and act on — reassign, unblock, spawn, cancel, and approve or deny dangerous commands remotely, no terminal needed. Chain-of-thought is never surfaced and tool output is secret-scrubbed.<br><br>[**View Repository →**](https://github.com/Manuele-T/hermes-agent-control-surface) · [**Live Demo →**](https://hermes-agent-control-surface-demo.onrender.com/) |
+| <img src="https://github.com/Manuele-T/agent-troops/blob/main/docs/screenshots/3-leak-warning-and-blocked-robot.jpg?raw=true" width="80%" /> | **Core:** Python, Claude Code (hooks, subagents, plugin)<br>**Security:** Least privilege, data loss prevention, policy-as-code<br>**Interface:** Live approval dashboard, CI-ready audit<br>Builds a task-specific agent team where each agent gets only the permissions its job needs. Every outward call (web, `curl`, `git push`) waits for a human Allow or Deny, and after a sensitive file is read nothing more can leave. Smuggled keys are flagged and every decision is logged with secrets redacted. Includes a replayable five-attack demo.<br><br>[**View Repository →**](https://github.com/Manuele-T/agent-troops) |
 
 ---
 
@@ -34,19 +34,19 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
 
 ---
 
-### Featured: Neon Breacher
+### Featured: CodeWise — Prompt-Injection-Hardened AI Code Reviewer
 
-| **Zero-Asset Retro Arcade Shooter** | **Tech Stack** |
+| **Defense-in-Depth LLM Security** | **Tech Stack** |
 | :--- | :--- |
-| <img src="https://github.com/Manuele-T/neon-breacher/blob/main/screenshots/neon_breacher.gif?raw=true" width="80%" /> | **Core:** React 19, TypeScript, HTML5 Canvas<br>**Engineering:** Decoupled React UI from Game Loop<br>**AI Workflow:** Architected with Gemini 3 Pro<br><br>[**View Repository →**](https://github.com/Manuele-T/neon-breacher) |
+| <img src="https://github.com/Manuele-T/codewise-ai-reviewer/blob/main/screenshots/03.jpg?raw=true" width="80%" /> | **Core:** React, Vite, Tailwind CSS<br>**Backend:** Vercel Serverless Functions, OpenAI (gpt-4o-mini)<br>**Security:** Input sanitisation, system-prompt hardening, output validation<br>Returns structured senior-engineer code reviews (summary, strengths, weaknesses, advice) as strict JSON. Blocks tag-breakout and jailbreak attempts, intercepts injected outputs server-side, checks magic bytes on uploads, and keeps the API key off the client.<br><br>[**View Repository →**](https://github.com/Manuele-T/codewise-ai-reviewer) |
 
 ---
 
 ### Active Projects
 
-| **AI Security** | **Agents & Automation** |
+| **Agent Tooling** | **Agents & Automation** |
 | :--- | :--- |
-| **[CodeWise AI Reviewer](https://github.com/Manuele-T/codewise-ai-reviewer)**<br>Secure code analysis service with 3-layer defense-in-depth against Prompt Injection.<br><br>![Stack](https://img.shields.io/badge/React-Node-black) | **[AI Marketing Assistant](https://github.com/Manuele-T/AI_Marketing_Agent)**<br>Multi-agent system that automates social media content creation using LangGraph.<br><br>![Stack](https://img.shields.io/badge/Python-LangGraph-black) |
+| **[Hermes Agent Control Surface](https://github.com/Manuele-T/hermes-agent-control-surface)**<br>Live PixiJS "room" of Hermes agents you can watch and act on — reassign, cancel, approve dangerous commands remotely.<br><br>![Stack](https://img.shields.io/badge/FastAPI-React-black) | **[AI Marketing Assistant](https://github.com/Manuele-T/AI_Marketing_Agent)**<br>Multi-agent system that automates social media content creation using LangGraph.<br><br>![Stack](https://img.shields.io/badge/Python-LangGraph-black) |
 | **[AI File Analysis Agent](https://github.com/Manuele-T/Local-MCP-File-Analysis-Server)**<br>Agent-Tool system using Model Context Protocol (MCP) for local file I/O.<br><br>![Stack](https://img.shields.io/badge/Python-MCP-black) | **[AI News Digest](https://github.com/Manuele-T/N8N_AI_News)**<br>Self-hosted n8n workflow summarizing headlines via Azure OpenAI to Discord.<br><br>![Stack](https://img.shields.io/badge/n8n-Docker-black) |
 
 ---
@@ -55,6 +55,7 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[Neon Breacher](https://github.com/Manuele-T/neon-breacher)** | Zero-asset retro arcade shooter with the React UI decoupled from the Canvas game loop. | `React` `TypeScript` `Canvas` |
 | **[Slack Summariser (AWS)](https://github.com/Manuele-T/SlackSummariser)** | Cloud/serverless sibling of the local RAG version — daily summaries via Anthropic Claude 3 Sonnet on Bedrock. | `Lambda` `Bedrock` `EventBridge` |
 | **[Recipes Chatbot](https://github.com/Manuele-T/Recipes_Chatbot)** | Conversational NLP interface exploring 500k+ recipes via Vertex AI. | `Python` `FastAPI` `React` |
 | **[Java Task Tracker](https://github.com/Manuele-T/Java-Spring-Task-Tracker)** | Containerized backend demonstrating Spring Boot principles. | `Java` `Spring Boot` `Docker` |
