@@ -2,7 +2,7 @@
 
 ## Hi there, I’m Manuele-T.
 
-First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Systems, and Cloud-Native Solutions.
+Specialist Customer Care professional at Barclays with a First-Class Honours degree in Computing, building agentic AI systems in parallel, with security built in: least privilege, human approval and traceability.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manueletacchetti)
 
@@ -19,7 +19,7 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
   </tr>
   <tr>
     <td width="45%"><img src="screenshots/agent-troops.png" width="100%" /></td>
-    <td width="55%"><b>Core:</b> Python, Claude Code (hooks, subagents, plugin)<br><b>Security:</b> Least privilege, data loss prevention, policy-as-code<br><b>Interface:</b> Live approval dashboard, CI-ready audit<br>Builds a task-specific agent team where each agent gets only the permissions its job needs. Every outward call (web, <code>curl</code>, <code>git push</code>) waits for a human Allow or Deny, and after a sensitive file is read nothing more can leave. Smuggled keys are flagged and every decision is logged with secrets redacted. Includes a replayable five-attack demo.<br><br><a href="https://github.com/Manuele-T/agent-troops"><b>View Repository →</b></a></td>
+    <td width="55%"><b>Core:</b> Python, Claude Code (hooks, subagents, plugin)<br><b>Security:</b> Least privilege, data loss prevention, policy-as-code<br><b>Interface:</b> Live approval dashboard, CI-ready audit<br>Builds a task-specific agent team where each agent gets only the permissions its job needs, and every outward call waits for a human Allow or Deny.<br><br><a href="https://github.com/Manuele-T/agent-troops"><b>View Repository →</b></a></td>
   </tr>
 </table>
 
@@ -34,7 +34,7 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
   </tr>
   <tr>
     <td width="45%"><img src="screenshots/autonomous-builder.png" width="100%" /></td>
-    <td width="55%"><b>Core:</b> Hermes Agent, DeepSeek V4 (OpenRouter)<br><b>Interface:</b> Discord gateway<br><b>Deploy:</b> Vercel, GitHub CLI, Neon<br>Turns a plain-language request into a deployed web app — planning, building, security-reviewing, and shipping to production. Built on AgentOps principles: human-in-the-loop approval gates and a code-review subagent that halts deployment on any security violation.<br><br><a href="https://github.com/Manuele-T/Autonomous-Builder"><b>View Repository →</b></a></td>
+    <td width="55%"><b>Core:</b> Hermes Agent, DeepSeek V4 (OpenRouter)<br><b>Interface:</b> Discord gateway<br><b>Deploy:</b> Vercel, GitHub CLI, Neon<br>Turns a plain-language request into a deployed web app, with human approval gates and a code-review subagent that halts deployment on any security violation.<br><br><a href="https://github.com/Manuele-T/Autonomous-Builder"><b>View Repository →</b></a></td>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
   </tr>
   <tr>
     <td width="45%"><img src="screenshots/slack-summariser.png" width="100%" /></td>
-    <td width="55%"><b>Core:</b> Python, Haystack, Ollama (local LLM)<br><b>Retrieval:</b> Persistent <b>ChromaDB</b> vector store<br><b>Pattern:</b> Retrieval-Augmented Generation (RAG)<br>Embeds Slack messages locally, summarises the day into five bullets, and answers semantic queries across full history — no cloud, no API keys.<br><br><a href="https://github.com/Manuele-T/slack-summariser-local-rag"><b>View Repository →</b></a></td>
+    <td width="55%"><b>Core:</b> Python, Haystack, Ollama (local LLM)<br><b>Retrieval:</b> Persistent <b>ChromaDB</b> vector store<br><b>Pattern:</b> Retrieval-Augmented Generation (RAG)<br>Summarises the Slack day into five bullets and answers semantic queries across the full history, entirely on-device with no cloud or API keys.<br><br><a href="https://github.com/Manuele-T/slack-summariser-local-rag"><b>View Repository →</b></a></td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
   </tr>
   <tr>
     <td width="45%"><img src="screenshots/codewise.png" width="100%" /></td>
-    <td width="55%"><b>Core:</b> React, Vite, Tailwind CSS<br><b>Backend:</b> Vercel Serverless Functions, OpenAI (gpt-4o-mini)<br><b>Security:</b> Input sanitisation, system-prompt hardening, output validation<br>Returns structured senior-engineer code reviews (summary, strengths, weaknesses, advice) as strict JSON. Blocks tag-breakout and jailbreak attempts, intercepts injected outputs server-side, checks magic bytes on uploads, and keeps the API key off the client.<br><br><a href="https://github.com/Manuele-T/codewise-ai-reviewer"><b>View Repository →</b></a></td>
+    <td width="55%"><b>Core:</b> React, Vite, Tailwind CSS<br><b>Backend:</b> Vercel Serverless Functions, OpenAI (gpt-4o-mini)<br><b>Security:</b> Input sanitisation, system-prompt hardening, output validation<br>Returns structured senior-engineer code reviews as strict JSON, blocking jailbreak attempts and intercepting injected output before it reaches the client.<br><br><a href="https://github.com/Manuele-T/codewise-ai-reviewer"><b>View Repository →</b></a></td>
   </tr>
 </table>
 
