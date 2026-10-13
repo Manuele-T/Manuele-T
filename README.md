@@ -12,33 +12,61 @@ First-Class Computing Graduate specializing in Generative AI, RAG, Agentic Syste
 
 ### Latest Release: Agent Troops — Secure Agent Teams for Claude Code
 
-| **Least Privilege & Human Approval for Agentic AI** | **Tech Stack** |
-| :--- | :--- |
-| <img src="https://github.com/Manuele-T/agent-troops/blob/main/docs/screenshots/3-leak-warning-and-blocked-robot.jpg?raw=true" width="400" /> | **Core:** Python, Claude Code (hooks, subagents, plugin)<br>**Security:** Least privilege, data loss prevention, policy-as-code<br>**Interface:** Live approval dashboard, CI-ready audit<br>Builds a task-specific agent team where each agent gets only the permissions its job needs. Every outward call (web, `curl`, `git push`) waits for a human Allow or Deny, and after a sensitive file is read nothing more can leave. Smuggled keys are flagged and every decision is logged with secrets redacted. Includes a replayable five-attack demo.<br><br>[**View Repository →**](https://github.com/Manuele-T/agent-troops) |
+<table>
+  <tr>
+    <th width="45%" align="left">Least Privilege &amp; Human Approval for Agentic AI</th>
+    <th width="55%" align="left">Tech Stack</th>
+  </tr>
+  <tr>
+    <td width="45%"><img src="screenshots/agent-troops.png" width="100%" /></td>
+    <td width="55%"><b>Core:</b> Python, Claude Code (hooks, subagents, plugin)<br><b>Security:</b> Least privilege, data loss prevention, policy-as-code<br><b>Interface:</b> Live approval dashboard, CI-ready audit<br>Builds a task-specific agent team where each agent gets only the permissions its job needs. Every outward call (web, <code>curl</code>, <code>git push</code>) waits for a human Allow or Deny, and after a sensitive file is read nothing more can leave. Smuggled keys are flagged and every decision is logged with secrets redacted. Includes a replayable five-attack demo.<br><br><a href="https://github.com/Manuele-T/agent-troops"><b>View Repository →</b></a></td>
+  </tr>
+</table>
 
 ---
 
 ### Featured: Hermes Autonomous Builder — Agentic Web-App Pipeline
 
-| **Discord-Controlled Autonomous Deployment** | **Tech Stack** |
-| :--- | :--- |
-| <img src="https://github.com/Manuele-T/Autonomous-Builder/blob/main/screenshots/02.png?raw=true" width="400" /> | **Core:** Hermes Agent, DeepSeek V4 (OpenRouter)<br>**Interface:** Discord gateway<br>**Deploy:** Vercel, GitHub CLI, Neon<br>Turns a plain-language request into a deployed web app — planning, building, security-reviewing, and shipping to production. Built on AgentOps principles: human-in-the-loop approval gates and a code-review subagent that halts deployment on any security violation.<br><br>[**View Repository →**](https://github.com/Manuele-T/Autonomous-Builder) |
+<table>
+  <tr>
+    <th width="45%" align="left">Discord-Controlled Autonomous Deployment</th>
+    <th width="55%" align="left">Tech Stack</th>
+  </tr>
+  <tr>
+    <td width="45%"><img src="screenshots/autonomous-builder.png" width="100%" /></td>
+    <td width="55%"><b>Core:</b> Hermes Agent, DeepSeek V4 (OpenRouter)<br><b>Interface:</b> Discord gateway<br><b>Deploy:</b> Vercel, GitHub CLI, Neon<br>Turns a plain-language request into a deployed web app — planning, building, security-reviewing, and shipping to production. Built on AgentOps principles: human-in-the-loop approval gates and a code-review subagent that halts deployment on any security violation.<br><br><a href="https://github.com/Manuele-T/Autonomous-Builder"><b>View Repository →</b></a></td>
+  </tr>
+</table>
 
 ---
 
 ### Featured: Slack Summariser — Local RAG
 
-| **On-Device Retrieval-Augmented Generation** | **Tech Stack** |
-| :--- | :--- |
-| <img src="https://github.com/Manuele-T/slack-summariser-local-rag/blob/main/screenshots/pic01.jpg?raw=true" width="400" /> | **Core:** Python, Haystack, Ollama (local LLM)<br>**Retrieval:** Persistent **ChromaDB** vector store<br>**Pattern:** Retrieval-Augmented Generation (RAG)<br>Embeds Slack messages locally, summarises the day into five bullets, and answers semantic queries across full history — no cloud, no API keys.<br><br>[**View Repository →**](https://github.com/Manuele-T/slack-summariser-local-rag) |
+<table>
+  <tr>
+    <th width="45%" align="left">On-Device Retrieval-Augmented Generation</th>
+    <th width="55%" align="left">Tech Stack</th>
+  </tr>
+  <tr>
+    <td width="45%"><img src="screenshots/slack-summariser.png" width="100%" /></td>
+    <td width="55%"><b>Core:</b> Python, Haystack, Ollama (local LLM)<br><b>Retrieval:</b> Persistent <b>ChromaDB</b> vector store<br><b>Pattern:</b> Retrieval-Augmented Generation (RAG)<br>Embeds Slack messages locally, summarises the day into five bullets, and answers semantic queries across full history — no cloud, no API keys.<br><br><a href="https://github.com/Manuele-T/slack-summariser-local-rag"><b>View Repository →</b></a></td>
+  </tr>
+</table>
 
 ---
 
 ### Featured: CodeWise — Prompt-Injection-Hardened AI Code Reviewer
 
-| **Defense-in-Depth LLM Security** | **Tech Stack** |
-| :--- | :--- |
-| <img src="https://github.com/Manuele-T/codewise-ai-reviewer/blob/main/screenshots/03.jpg?raw=true" width="400" /> | **Core:** React, Vite, Tailwind CSS<br>**Backend:** Vercel Serverless Functions, OpenAI (gpt-4o-mini)<br>**Security:** Input sanitisation, system-prompt hardening, output validation<br>Returns structured senior-engineer code reviews (summary, strengths, weaknesses, advice) as strict JSON. Blocks tag-breakout and jailbreak attempts, intercepts injected outputs server-side, checks magic bytes on uploads, and keeps the API key off the client.<br><br>[**View Repository →**](https://github.com/Manuele-T/codewise-ai-reviewer) |
+<table>
+  <tr>
+    <th width="45%" align="left">Defense-in-Depth LLM Security</th>
+    <th width="55%" align="left">Tech Stack</th>
+  </tr>
+  <tr>
+    <td width="45%"><img src="screenshots/codewise.png" width="100%" /></td>
+    <td width="55%"><b>Core:</b> React, Vite, Tailwind CSS<br><b>Backend:</b> Vercel Serverless Functions, OpenAI (gpt-4o-mini)<br><b>Security:</b> Input sanitisation, system-prompt hardening, output validation<br>Returns structured senior-engineer code reviews (summary, strengths, weaknesses, advice) as strict JSON. Blocks tag-breakout and jailbreak attempts, intercepts injected outputs server-side, checks magic bytes on uploads, and keeps the API key off the client.<br><br><a href="https://github.com/Manuele-T/codewise-ai-reviewer"><b>View Repository →</b></a></td>
+  </tr>
+</table>
 
 ---
 
